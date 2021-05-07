@@ -32,7 +32,7 @@ namespace GoogleAdmob_Xamarin.iOS
 
         private void CompletionHandler(InitializationStatus status)
         {
-            throw new NotImplementedException();
+            
         }
     }
 }
